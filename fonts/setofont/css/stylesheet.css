@@ -1,0 +1,14 @@
+﻿@font-face {
+	font-family: "setofont";
+    src: url("../fonts/setofont-webfont.eot"); /* IE9 */
+    src: url("../fonts/setofont-webfont.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+		 url("../fonts/setofont-webfont.woff") format("woff"), /* chrome、firefox */
+		 url("../fonts/setofont-webfont.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+		 url("../fonts/setofont.svg#setofont") format("svg"); /* iOS 4.1- */
+}
+
+body, button, label {
+	font-family: "setofont", "honyaji-reregular" !important;
+	font-weight: normal;
+    font-style: normal;
+}
